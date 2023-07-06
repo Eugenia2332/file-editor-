@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/gradient-lo-fi-illustrations_52683-82982.jpg?w=1480&t=st=1688407097~exp=1688407697~hmac=c738394b7d089877df3d245a9e9e09c30f3a1fd50dd181c4328977124b912155");
+    
+}
+#drop-zone {
+    width: 30%;
+    padding: 15%;
+    position: relative; 
+  top: 50px;          
+  left: 300px;
+    text-align: center;
+    font-size: 1.2em;
+  }
+  .transzone {
+    margin: 30px;
+  background-color: #ffffff;
+  border: 1px groove;
+  border-radius: 50px;
+  opacity: 0.6;
+  }
+  
+   p {
+    text-align: center;
+    font-family: 'Fasthand';
+    font-size: 1.9rem;
+    color: rgb(124, 114, 98);
+  }
+p:hover {
+    color: rgb(150, 65, 150);
+}
+input {
+    text-align: center;
+    font-family: 'Fasthand';
+    margin-left: 25%;
+    font-size: 0.9rem;
+    color: rgb(124, 114, 98);
+}
+input:hover {
+    color: rgb(150, 65, 150);
+}
+  
+  #drop-zone.highlight {
+    background-color: #e6f7ff;
+  }
+ 
